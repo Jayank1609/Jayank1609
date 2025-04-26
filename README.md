@@ -3,6 +3,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jayank-tanwar) 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/Jayank1609)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail)](mailto:jayank0777@gmail.com)
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN%20Stack-Developer-3DDC84?style=for-the-badge&logo=react&logoColor=white" alt="MERN Stack Developer"/>
+  <img src="https://img.shields.io/badge/AI-Enthusiast-purple?style=for-the-badge&logo=python&logoColor=white" alt="AI Enthusiast"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Contributor"/>
+  <img src="https://img.shields.io/badge/Product-Manager-blue?style=for-the-badge&logo=slack&logoColor=white" alt="Product Manager"/>
+</p>
+
 
 ---
 
